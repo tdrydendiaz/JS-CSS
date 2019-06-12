@@ -1,0 +1,44 @@
+
+div {
+  font-style: oblique ;
+  font-size: 25px;
+  color: #9744B5;
+  text-shadow: 2px 2px #1A5737;
+  }
+
+body {
+  
+    background-image: url("bunny.jpg");
+    background-color: #cccccc;
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: pink; */
+}
+
+.notwo {
+  font-style:oblique ;
+  font-size: 25px;
+  color: #9744B5 ;
+}
+
+body{
+  text-align: center;
+}
+
+
+h4{
+  font-style:normal;
+  font-size: 50px;
+  color: #9744B5;
+  text-shadow: 2px 2px #1A5737;
+}
+
+#result{
+  font-size: 50px;
+}
+
+.btn{
+  font-size: 10px;
+}
